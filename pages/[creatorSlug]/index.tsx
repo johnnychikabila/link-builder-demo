@@ -1,5 +1,5 @@
 import Image from "next/image";
-import "@/pages/globals.css";
+import "@/app/globals.css";
 import { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 import ImageUploading, { ImageListType } from "react-images-uploading";

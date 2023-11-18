@@ -1,5 +1,5 @@
 import supabase from "@/utils/supabaseClient";
-import "./globals.css";
+import "@/app/globals.css";
 import { useState } from "react";
 import { useRouter } from "next/router";
 
