@@ -4,7 +4,7 @@ import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title: "link-clone",
   description: "link-clone application",
 };
